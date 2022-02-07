@@ -11,9 +11,9 @@
       // referred to in <canvas> down in the <body>, like so:
       // <canvas id="myCanvasID" data-processing-sources="mySketch.pde">
       void setup() {
-        size(640, 480);
+        size(800, 480);
       }
-      
+       
       void draw() {
         for (int i=0; i<50; i++) {
           line(random(width),random(height),random(width),random(height));
