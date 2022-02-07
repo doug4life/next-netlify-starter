@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hi Maya GRRR <3" />
+        <Header title="Hi Maya GRRR <3!!!" />
        
          <code>//The Phantastic Homage to Josef Albers 
 //by Doug Johnson 
