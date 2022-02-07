@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hi Maya GRRR <3!!!" />
+       
        
          <code>
    function setup(){}
@@ -22,7 +22,7 @@ export default function Home() {
        
       </main>
 
-      <Footer />
+   
     </div>
   )
 }
