@@ -14,8 +14,11 @@ export default function Home() {
         <Header title="Hi Maya GRRR <3!!!" />
        
          <code>
-    //test
-    background(51);</code>
+   function setup(){}
+   function draw(){
+   background(51);
+   }
+    </code>
        
       </main>
 
