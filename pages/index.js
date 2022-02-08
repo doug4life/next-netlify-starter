@@ -9,7 +9,7 @@ export default function Home() {
           <script src="p5.js"></script>
           <script src="p5.sound.js"></script>
           <script src="sketch.js"></script
-        <title>TESTIES!</title>
+        <title>TESTIES</title>
         
       </Head>
 
