@@ -7,10 +7,10 @@
     <meta charset="utf-8" />
   </head>
   <body>
-    <script>
+    <code>
       function setup(){
     background(100);
     }
-      </script>
+    </code>
   </body>
 </html>
