@@ -7,10 +7,6 @@
     <meta charset="utf-8" />
   </head>
   <body>
-    <code>
-      function setup(){
-    background(100);
-    }
-    </code>
+    <script src="sketch.js"><iframe src="https://editor.p5js.org/Doug_Johnson/full/T1gBGin3m"></iframe></script>
   </body>
 </html>
