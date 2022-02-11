@@ -1,26 +1,12 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-export default function Home() {
-  return (
-    <div className="container">
-      <Head>
-          <script src="p5.js"></script>
-          <script src="p5.sound.js"></script>
-          <script src="sketch.js"></script
-        <title>TESTIES</title>
-        
-      </Head>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
 
-      <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-      </main>
-
-      <Footer />
-    </div>
-  )
-}
+</body>
+</html> 
